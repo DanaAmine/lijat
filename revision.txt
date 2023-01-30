@@ -1,0 +1,12 @@
+to stage any file in stage area
+
+git init 
+git add file
+git commit -m "msg"
+git push 
+
+
+
+====to create a branch  ================> git branch name      =========>
+============> to switch =======> git checkout name             ==========>    git checkout -b name
+
